@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Archive — Duane Noriyuki</title>
+  <link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="wordmark" href="index.html">duane noriyuki</a>
+    <nav aria-label="Primary navigation">
+      <a class="active" href="archive.html">archive</a>
+      <a href="photography.html">photography</a>
+      <a href="about.html">about</a>
+    </nav>
+  </header>
+
+  <main class="archive-page">
+    <section class="page-intro">
+      <p class="eyebrow">the archive</p>
+      <h1>Stories worth<br><em>another look.</em></h1>
+      <p>Journalism, essays, and other work gathered across four decades. The archive is organized by connections as much as chronology.</p>
+    </section>
+
+    <section class="filters" aria-label="Archive filters">
+      <label class="search-label">search <input id="search" type="search" placeholder="title, publication, person, place…"></label>
+      <div class="filter-row">
+        <div id="theme-filters" class="chips"></div>
+        <select id="year-filter" aria-label="Filter by year"><option value="">all years</option></select>
+      </div>
+    </section>
+
+    <section class="results-meta"><span id="result-count"></span></section>
+    <section id="archive-list" class="archive-list"></section>
+  </main>
+
+  <footer class="site-footer"><span>Duane Noriyuki</span><span>an evolving archive</span></footer>
+  <script src="assets/data.js"></script>
+  <script src="assets/site.js"></script>
+</body>
+</html>
