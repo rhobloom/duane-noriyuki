@@ -103,3 +103,27 @@ blockquote { max-width:900px; font-family:var(--serif); font-size:clamp(2.5rem,6
   .about-note { margin-left:7vw; margin-right:7vw; }
   .site-footer { padding:1.5rem 6vw; }
 }
+
+.footer-link {
+  display: inline-block;
+}
+
+.footer-mark {
+  width: 150px;
+  height: auto;
+  opacity: .55;
+  transition:
+    opacity .25s ease,
+    transform .25s ease;
+}
+
+.footer-mark:hover {
+  opacity: 1;
+  transform: translateY(-2px);
+}
+
+@media (max-width: 760px) {
+  .footer-mark {
+    width: 135px;
+  }
+}
