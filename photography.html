@@ -3,6 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Photography by Duane Noriyuki.">
   <title>Photography — Duane Noriyuki</title>
   <link rel="stylesheet" href="assets/site.css">
 </head>
@@ -19,36 +20,39 @@
   <main>
     <section class="page-intro photo-page-intro">
       <p class="eyebrow">photography</p>
-      <h1>Looking is<br><em>part of the work.</em></h1>
-      <p>This section is deliberately ready for Duane's photographs. It will eventually hold individual photographs, photo essays, reporting images, and material from the personal archive.</p>
+      <h1>Photographs.</h1>
+      <p>Gardens, water, animals, people, and places that have stayed with me.</p>
     </section>
 
-    <section class="photo-placeholder-grid">
-      <div class="photo-placeholder large"><span>photograph archive</span></div>
-      <div class="photo-placeholder"><span>coming from the collection</span></div>
-      <div class="photo-placeholder"><span>people · place · light</span></div>
-      <div class="photo-placeholder wide"><span>photo essays</span></div>
+    <section class="photo-archive-section">
+      <div class="section-heading photo-heading">
+        <div>
+          <p class="eyebrow">gallery</p>
+          <h2>From the collection.</h2>
+        </div>
+        <p id="photo-count" class="photo-count"></p>
+      </div>
+      <div id="photo-grid" class="photo-grid" aria-live="polite"></div>
     </section>
 
     <section class="rights-note">
-      <p class="eyebrow">archive principle</p>
-      <p>Every photograph will carry provenance: photographer, date, place, caption, collection, publication status, and rights information where known.</p>
+      <p class="eyebrow">gallery</p>
+      <p>The gallery is updated periodically. Dates, places, and stories will be added where they are known.</p>
     </section>
   </main>
 
-  <footer class="site-footer">
-    <span>Duane Noriyuki</span>
-    <a
-      href="index.html"
-      class="footer-link"
-      aria-label="Website designed by rhobloom"
-    >
-      <img
-        src="assets/rhobloom-v2.svg"
-        alt="rhobloom"
-        class="footer-mark"
-      />
-    </a>
-  </footer>
+  <div id="photo-lightbox" class="photo-lightbox" hidden role="dialog" aria-modal="true" aria-label="Photograph viewer">
+    <button class="lightbox-close" aria-label="Close photograph">×</button>
+    <button class="lightbox-nav lightbox-prev" aria-label="Previous photograph">←</button>
+    <figure>
+      <img id="lightbox-image" alt="">
+      <figcaption id="lightbox-caption"></figcaption>
+    </figure>
+    <button class="lightbox-nav lightbox-next" aria-label="Next photograph">→</button>
+  </div>
+
+  <footer class="site-footer"><span>Duane Noriyuki</span><a href="https://rhobloom.art" class="footer-link" aria-label="Website designed by rhobloom" target="_blank" rel="noopener noreferrer"><img src="https://github.com/rhobloom/yumikos-website/raw/refs/heads/main/public/images/rhobloom-v2.svg" alt="rhobloom" class="footer-mark"></a></footer>
+  <script src="assets/photography-data.js"></script>
+  <script src="assets/photography.js"></script>
 </body>
 </html>
