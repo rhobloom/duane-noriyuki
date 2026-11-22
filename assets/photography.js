@@ -18,7 +18,7 @@
     const p = visible[current];
     lightboxImage.src = p.src;
     lightboxImage.alt = p.alt;
-    lightboxCaption.textContent = [p.alt, p.date, p.id].filter(Boolean).join(" · ");
+    lightboxCaption.textContent = [p.date, p.id].filter(Boolean).join(" · ");
     lightbox.hidden = false;
     close.focus();
     document.body.style.overflow = 'hidden';
