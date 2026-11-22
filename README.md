@@ -22,11 +22,8 @@ Blank `url` values are intentional. We should not invent links for pieces that w
 
 No third-party article text or copyrighted photographs are reproduced here.
 
-## Next build
+## Edit the homepage slideshow
 
-1. Continue the archival research, especially Aspen/Colorado, Detroit, St. Paul, and the personal photography collection.
-2. Replace placeholder photography panels with Duane's actual photographs once supplied/licensed.
-3. Build individual work pages.
-4. Add people, places, objects, and thread relationships.
-5. Add a proper rights/provenance model for photographs.
-6. Add the future journal/blog using the same content system.
+Open a photo in the gallery to see its ID below the enlarged image. In [the slideshow list](https://github.com/rhobloom/duane-noriyuki/edit/main/assets/home-slides.txt), put one photo ID per line, in the order you want it shown. Commit the edit with a GitHub account that can write to this repository. GitHub Pages publishes the change. An empty list hides the slideshow.
+
+The four gallery categories and image descriptions are in `assets/photography-data.js`. Personal projects and links to new essays belong in `personal-work.html`.

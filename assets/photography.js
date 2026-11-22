@@ -9,41 +9,43 @@
   const prev = document.querySelector('.lightbox-prev');
   const next = document.querySelector('.lightbox-next');
   let current = 0;
-
-  if (count) count.textContent = `${photos.length} photographs`;
-
-  function displayName(photo) {
-    return photo.date ? photo.date.replaceAll('-', '.') : photo.file;
-  }
+  let visible = photos;
+  let opener;
 
   function openAt(index) {
-    if (!photos.length) return;
-    current = (index + photos.length) % photos.length;
-    const p = photos[current];
+    if (!visible.length) return;
+    current = (index + visible.length) % visible.length;
+    const p = visible[current];
     lightboxImage.src = p.src;
-    lightboxImage.alt = `Photograph by Duane Noriyuki, ${displayName(p)}`;
-    lightboxCaption.textContent = p.date ? `Duane Noriyuki · ${p.date}` : 'Duane Noriyuki';
+    lightboxImage.alt = p.alt;
+    lightboxCaption.textContent = [p.alt, p.date, p.id].filter(Boolean).join(" · ");
     lightbox.hidden = false;
+    close.focus();
     document.body.style.overflow = 'hidden';
   }
-  function closeBox() { lightbox.hidden = true; document.body.style.overflow = ''; lightboxImage.src = ''; }
+  function closeBox() { lightbox.hidden = true; document.body.style.overflow = ''; lightboxImage.removeAttribute('src'); opener?.focus(); }
 
-  if (grid) {
-    photos.forEach((p, i) => {
+  function render(category) {
+    visible = category === 'All' ? photos : photos.filter(p => p.category === category);
+    grid.replaceChildren();
+    count.textContent = visible.length + ' photographs';
+    visible.forEach((p, i) => {
       const card = document.createElement('article');
       card.className = 'photo-card';
-      card.innerHTML = `<button type="button" aria-label="Open photograph from ${displayName(p)}"><img src="${p.thumb}" alt="Photograph by Duane Noriyuki" loading="lazy"><span class="photo-meta"><span>Duane Noriyuki</span><span>${p.year || ''}</span></span></button>`;
-      card.querySelector('button').addEventListener('click', () => openAt(i));
+      card.innerHTML = `<button type="button"><img src="${p.thumb}" alt="" loading="lazy"><span class="photo-meta"><span>${p.category}</span><span>${p.year || ''}</span></span></button>`;
+      const button = card.querySelector('button');
+      button.setAttribute('aria-label', 'Open photograph: ' + p.alt);
+      button.addEventListener('click', event => { opener = event.currentTarget; openAt(i); });
       grid.appendChild(card);
     });
   }
 
-  document.querySelectorAll('[data-open-photo]').forEach(el => {
-    el.addEventListener('click', () => {
-      const i = photos.findIndex(p => p.id === el.dataset.openPhoto);
-      if (i >= 0) openAt(i);
-    });
-  });
+  const filters = document.querySelectorAll('.photo-filters button');
+  filters.forEach(button => button.addEventListener('click', () => {
+    filters.forEach(item => item.setAttribute('aria-pressed', String(item === button)));
+    render(button.textContent);
+  }));
+  render('All');
   close?.addEventListener('click', closeBox);
   prev?.addEventListener('click', () => openAt(current - 1));
   next?.addEventListener('click', () => openAt(current + 1));

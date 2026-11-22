@@ -7,7 +7,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-3460.jpg",
     "src": "assets/photos/full/img-3460.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Portraits",
+    "alt": "A person reads on a bench outside a café."
   },
   {
     "id": "img-3467",
@@ -17,7 +19,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-3467.jpg",
     "src": "assets/photos/full/img-3467.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Life",
+    "alt": "Two people play chess at a café table."
   },
   {
     "id": "img-3674",
@@ -27,7 +31,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-3674.jpg",
     "src": "assets/photos/full/img-3674.jpg",
     "width": 1920,
-    "height": 1280
+    "height": 1280,
+    "category": "Nature",
+    "alt": "A slender branch of yellow-green leaves against a gray background."
   },
   {
     "id": "mg-3799",
@@ -37,7 +43,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/mg-3799.jpg",
     "src": "assets/photos/full/mg-3799.jpg",
     "width": 1920,
-    "height": 1280
+    "height": 1280,
+    "category": "Portraits",
+    "alt": "A person seen from behind raises both arms in a doorway."
   },
   {
     "id": "mg-6197",
@@ -47,7 +55,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/mg-6197.jpg",
     "src": "assets/photos/full/mg-6197.jpg",
     "width": 720,
-    "height": 480
+    "height": 480,
+    "category": "Portraits",
+    "alt": "Two figures silhouetted against an orange sunset."
   },
   {
     "id": "img-6912",
@@ -57,7 +67,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-6912.jpg",
     "src": "assets/photos/full/img-6912.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "A pink lily opens among closed buds."
   },
   {
     "id": "img-6922",
@@ -67,7 +79,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-6922.jpg",
     "src": "assets/photos/full/img-6922.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "A round cluster of small purple flowers."
   },
   {
     "id": "mg-9804",
@@ -77,7 +91,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/mg-9804.jpg",
     "src": "assets/photos/full/mg-9804.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "Lily pads spread across the surface of a pond."
   },
   {
     "id": "img-9893",
@@ -87,7 +103,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-9893.jpg",
     "src": "assets/photos/full/img-9893.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Portraits",
+    "alt": "Three people sit side by side on a white railing."
   },
   {
     "id": "img-9948",
@@ -97,7 +115,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-9948.jpg",
     "src": "assets/photos/full/img-9948.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Portraits",
+    "alt": "Two people lean their heads together on a sofa."
   },
   {
     "id": "img-0175",
@@ -107,7 +127,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0175.jpg",
     "src": "assets/photos/full/img-0175.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "A small bird perches on a wooden fence."
   },
   {
     "id": "img-0264",
@@ -117,7 +139,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0264.jpg",
     "src": "assets/photos/full/img-0264.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "A gray-and-white cat stands in the grass."
   },
   {
     "id": "img-0270",
@@ -127,7 +151,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0270.jpg",
     "src": "assets/photos/full/img-0270.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "A gray-and-white cat lowers its head to the grass."
   },
   {
     "id": "img-0787",
@@ -137,7 +163,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0787.jpg",
     "src": "assets/photos/full/img-0787.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Life",
+    "alt": "An athlete hangs in midair above a vaulting pole."
   },
   {
     "id": "img-9061",
@@ -147,7 +175,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-9061.jpg",
     "src": "assets/photos/full/img-9061.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Portraits",
+    "alt": "Two people smile with their arms around one another."
   },
   {
     "id": "img-0167",
@@ -157,7 +187,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0167.jpg",
     "src": "assets/photos/full/img-0167.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Life",
+    "alt": "Streaks of red and green light cross a dark frame."
   },
   {
     "id": "img-1587",
@@ -167,7 +199,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-1587.jpg",
     "src": "assets/photos/full/img-1587.jpg",
     "width": 1383,
-    "height": 1381
+    "height": 1381,
+    "category": "Nature",
+    "alt": "A hummingbird hovers in a patch of sunlight."
   },
   {
     "id": "img-1625",
@@ -177,7 +211,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-1625.jpg",
     "src": "assets/photos/full/img-1625.jpg",
     "width": 2048,
-    "height": 1594
+    "height": 1594,
+    "category": "Nature",
+    "alt": "A hummingbird hovers beside a yellow flower."
   },
   {
     "id": "img-1630",
@@ -187,7 +223,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-1630.jpg",
     "src": "assets/photos/full/img-1630.jpg",
     "width": 2049,
-    "height": 1699
+    "height": 1699,
+    "category": "Nature",
+    "alt": "A hummingbird spreads its wings against a dark background."
   },
   {
     "id": "img-6305",
@@ -197,7 +235,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-6305.jpg",
     "src": "assets/photos/full/img-6305.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "A gray-and-white cat looks toward the camera."
   },
   {
     "id": "img-6427",
@@ -207,7 +247,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-6427.jpg",
     "src": "assets/photos/full/img-6427.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "A flock of geese gathers along a grassy bank."
   },
   {
     "id": "img-6470-1",
@@ -217,7 +259,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-6470-1.jpg",
     "src": "assets/photos/full/img-6470-1.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "A small amphibian faces the camera in dark water."
   },
   {
     "id": "img-0030",
@@ -227,7 +271,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0030.jpg",
     "src": "assets/photos/full/img-0030.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Life",
+    "alt": "A television glows in a living room beside a bright window."
   },
   {
     "id": "img-0031",
@@ -237,7 +283,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0031.jpg",
     "src": "assets/photos/full/img-0031.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Life",
+    "alt": "An empty chair faces a television in a sunlit room."
   },
   {
     "id": "img-0035",
@@ -247,7 +295,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0035.jpg",
     "src": "assets/photos/full/img-0035.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Landscapes",
+    "alt": "Snow falls across a fenced backyard."
   },
   {
     "id": "img-0036",
@@ -257,7 +307,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0036.jpg",
     "src": "assets/photos/full/img-0036.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Landscapes",
+    "alt": "Snow dusts bushes and trees in a garden."
   },
   {
     "id": "img-0037",
@@ -267,7 +319,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0037.jpg",
     "src": "assets/photos/full/img-0037.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Landscapes",
+    "alt": "A tree and hedges are blanketed in fresh snow."
   },
   {
     "id": "img-0165-2",
@@ -277,7 +331,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0165-2.jpg",
     "src": "assets/photos/full/img-0165-2.jpg",
     "width": 2975,
-    "height": 1536
+    "height": 1536,
+    "category": "Landscapes",
+    "alt": "Pink clouds hang above a house at the foot of wooded hills."
   },
   {
     "id": "img-0255",
@@ -287,7 +343,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0255.jpg",
     "src": "assets/photos/full/img-0255.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Landscapes",
+    "alt": "Dark trees frame a bright red evening sky."
   },
   {
     "id": "img-0259",
@@ -297,7 +355,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0259.jpg",
     "src": "assets/photos/full/img-0259.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Life",
+    "alt": "Wooden handles and tools on a workshop pegboard."
   },
   {
     "id": "img-0261",
@@ -307,7 +367,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0261.jpg",
     "src": "assets/photos/full/img-0261.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Life",
+    "alt": "A weathered Sunkist orange crate with Japanese lettering."
   },
   {
     "id": "img-0263",
@@ -317,7 +379,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0263.jpg",
     "src": "assets/photos/full/img-0263.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Life",
+    "alt": "Three cut-glass tumblers on a wooden shelf."
   },
   {
     "id": "img-0266",
@@ -327,7 +391,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0266.jpg",
     "src": "assets/photos/full/img-0266.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Life",
+    "alt": "Chairs, shelves and household objects fill a workshop."
   },
   {
     "id": "img-0267",
@@ -337,7 +403,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0267.jpg",
     "src": "assets/photos/full/img-0267.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Life",
+    "alt": "A close view of a red metal bench vise."
   },
   {
     "id": "img-0269",
@@ -347,7 +415,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0269.jpg",
     "src": "assets/photos/full/img-0269.jpg",
     "width": 1537,
-    "height": 2049
+    "height": 2049,
+    "category": "Life",
+    "alt": "A chain hangs in front of wooden workshop shelves lined with tools and cans."
   },
   {
     "id": "img-0271",
@@ -357,7 +427,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0271.jpg",
     "src": "assets/photos/full/img-0271.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Life",
+    "alt": "A work surface and shelves crowded with household items."
   },
   {
     "id": "img-0272",
@@ -367,7 +439,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0272.jpg",
     "src": "assets/photos/full/img-0272.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Life",
+    "alt": "A red tabletop in front of shelves and a pale green cabinet."
   },
   {
     "id": "img-6336",
@@ -377,7 +451,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-6336.jpg",
     "src": "assets/photos/full/img-6336.jpg",
     "width": 2048,
-    "height": 2048
+    "height": 2048,
+    "category": "Landscapes",
+    "alt": "Sunlight falls on a winding road through tall trees."
   },
   {
     "id": "img-9200",
@@ -387,7 +463,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-9200.jpg",
     "src": "assets/photos/full/img-9200.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Landscapes",
+    "alt": "A river bends between bare trees and grassy banks."
   },
   {
     "id": "img-9371",
@@ -397,7 +475,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-9371.jpg",
     "src": "assets/photos/full/img-9371.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "A pale puppy looks straight into the camera."
   },
   {
     "id": "img-9372",
@@ -407,7 +487,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-9372.jpg",
     "src": "assets/photos/full/img-9372.jpg",
     "width": 2393,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "Close view of a pale puppy’s face against a dark background."
   },
   {
     "id": "img-9380",
@@ -417,7 +499,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-9380.jpg",
     "src": "assets/photos/full/img-9380.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "A puppy sits on a wooden step with its head bowed."
   },
   {
     "id": "img-9395",
@@ -427,7 +511,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-9395.jpg",
     "src": "assets/photos/full/img-9395.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "A puppy peers over the rim of a plant pot."
   },
   {
     "id": "img-9494",
@@ -437,7 +523,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-9494.jpg",
     "src": "assets/photos/full/img-9494.jpg",
     "width": 3356,
-    "height": 1536
+    "height": 1536,
+    "category": "Nature",
+    "alt": "A puppy follows a green ball across brick paving."
   },
   {
     "id": "img-9543",
@@ -447,7 +535,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-9543.jpg",
     "src": "assets/photos/full/img-9543.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Landscapes",
+    "alt": "Green foliage reflected in still water along a wooded bank."
   },
   {
     "id": "img-9581",
@@ -457,7 +547,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-9581.jpg",
     "src": "assets/photos/full/img-9581.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "A pale purple succulent forms a tight rosette."
   },
   {
     "id": "img-9588",
@@ -467,7 +559,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-9588.jpg",
     "src": "assets/photos/full/img-9588.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "Slender yellow-green buds on a branching stem."
   },
   {
     "id": "img-9659",
@@ -477,7 +571,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-9659.jpg",
     "src": "assets/photos/full/img-9659.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Life",
+    "alt": "A small wooden swing hangs from knotted ropes."
   },
   {
     "id": "img-0956",
@@ -487,7 +583,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0956.jpg",
     "src": "assets/photos/full/img-0956.jpg",
     "width": 2279,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "Orange lilies bloom against long green leaves."
   },
   {
     "id": "img-9740",
@@ -497,7 +595,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-9740.jpg",
     "src": "assets/photos/full/img-9740.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "A puppy runs through the grass toward the camera."
   },
   {
     "id": "img-0979",
@@ -507,7 +607,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0979.jpg",
     "src": "assets/photos/full/img-0979.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "A puppy lies with its chin resting in the grass."
   },
   {
     "id": "img-0984-1",
@@ -517,7 +619,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0984-1.jpg",
     "src": "assets/photos/full/img-0984-1.jpg",
     "width": 2048,
-    "height": 2048
+    "height": 2048,
+    "category": "Nature",
+    "alt": "A pale puppy bounds across a leaf-strewn lawn."
   },
   {
     "id": "img-1009",
@@ -527,7 +631,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-1009.jpg",
     "src": "assets/photos/full/img-1009.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "A puppy sniffs the grass at the end of a leash."
   },
   {
     "id": "img-9843",
@@ -537,7 +643,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-9843.jpg",
     "src": "assets/photos/full/img-9843.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "A white puppy wearing a red collar looks toward the camera."
   },
   {
     "id": "img-9977",
@@ -547,7 +655,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-9977.jpg",
     "src": "assets/photos/full/img-9977.jpg",
     "width": 2049,
-    "height": 1792
+    "height": 1792,
+    "category": "Nature",
+    "alt": "A spider web with a nearly circular spiral."
   },
   {
     "id": "img-0001",
@@ -557,7 +667,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0001.jpg",
     "src": "assets/photos/full/img-0001.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "A puppy rests on a deck with a pink toy."
   },
   {
     "id": "img-0019",
@@ -567,7 +679,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0019.jpg",
     "src": "assets/photos/full/img-0019.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "Blue reflections dot a softly lit water surface."
   },
   {
     "id": "img-0054",
@@ -577,7 +691,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0054.jpg",
     "src": "assets/photos/full/img-0054.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Life",
+    "alt": "A person and a small dog move along a sandy beach."
   },
   {
     "id": "img-0102",
@@ -587,7 +703,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0102.jpg",
     "src": "assets/photos/full/img-0102.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Life",
+    "alt": "A child in pink sits in the sand on a broad beach."
   },
   {
     "id": "img-0147",
@@ -597,7 +715,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0147.jpg",
     "src": "assets/photos/full/img-0147.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "A heron stands at the edge of a pond."
   },
   {
     "id": "img-0176",
@@ -607,7 +727,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0176.jpg",
     "src": "assets/photos/full/img-0176.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "A puppy sitting on stone steps looks to one side."
   },
   {
     "id": "img-0177",
@@ -617,7 +739,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0177.jpg",
     "src": "assets/photos/full/img-0177.jpg",
     "width": 2081,
-    "height": 1536
+    "height": 1536,
+    "category": "Nature",
+    "alt": "A pale puppy sits upright on stone steps."
   },
   {
     "id": "img-0190",
@@ -627,7 +751,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0190.jpg",
     "src": "assets/photos/full/img-0190.jpg",
     "width": 2424,
-    "height": 1536
+    "height": 1536,
+    "category": "Life",
+    "alt": "A child peeks around a red chair back."
   },
   {
     "id": "img-0194",
@@ -637,7 +763,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0194.jpg",
     "src": "assets/photos/full/img-0194.jpg",
     "width": 2588,
-    "height": 1536
+    "height": 1536,
+    "category": "Life",
+    "alt": "A child’s face is partly hidden behind a red chair."
   },
   {
     "id": "img-0232",
@@ -647,7 +775,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0232.jpg",
     "src": "assets/photos/full/img-0232.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "A white puppy sits in front of a red wall."
   },
   {
     "id": "img-0300",
@@ -657,7 +787,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0300.jpg",
     "src": "assets/photos/full/img-0300.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Life",
+    "alt": "A child in a wide-brimmed hat stands beneath a swing in a black-and-white photograph."
   },
   {
     "id": "img-0316",
@@ -667,7 +799,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0316.jpg",
     "src": "assets/photos/full/img-0316.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Portraits",
+    "alt": "A child wearing a floppy hat holds a swing rope."
   },
   {
     "id": "img-0421",
@@ -677,7 +811,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0421.jpg",
     "src": "assets/photos/full/img-0421.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Portraits",
+    "alt": "An adult laughs while holding a smiling child."
   },
   {
     "id": "img-0600",
@@ -687,7 +823,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0600.jpg",
     "src": "assets/photos/full/img-0600.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Portraits",
+    "alt": "A person with bright red hair looks toward the camera."
   },
   {
     "id": "img-0602",
@@ -697,7 +835,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0602.jpg",
     "src": "assets/photos/full/img-0602.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Portraits",
+    "alt": "A red-haired person wearing a headband smiles."
   },
   {
     "id": "img-1691",
@@ -707,7 +847,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-1691.jpg",
     "src": "assets/photos/full/img-1691.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Landscapes",
+    "alt": "A curved stone path leads past a pond to a blue cottage."
   },
   {
     "id": "img-1705",
@@ -717,7 +859,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-1705.jpg",
     "src": "assets/photos/full/img-1705.jpg",
     "width": 2435,
-    "height": 1536
+    "height": 1536,
+    "category": "Landscapes",
+    "alt": "Autumn foliage surrounds a pond and a blue cottage."
   },
   {
     "id": "img-1304",
@@ -727,7 +871,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-1304.jpg",
     "src": "assets/photos/full/img-1304.jpg",
     "width": 1537,
-    "height": 2049
+    "height": 2049,
+    "category": "Life",
+    "alt": "A decorated Christmas tree stands beside a window."
   },
   {
     "id": "img-8072",
@@ -737,7 +883,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-8072.jpg",
     "src": "assets/photos/full/img-8072.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Landscapes",
+    "alt": "Two small figures walk beside parallel bands of breaking waves."
   },
   {
     "id": "img-8074-1",
@@ -747,7 +895,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-8074-1.jpg",
     "src": "assets/photos/full/img-8074-1.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Landscapes",
+    "alt": "Two figures stand far apart on a sunlit shoreline."
   },
   {
     "id": "img-8088",
@@ -757,7 +907,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-8088.jpg",
     "src": "assets/photos/full/img-8088.jpg",
     "width": 2466,
-    "height": 1536
+    "height": 1536,
+    "category": "Life",
+    "alt": "Two people and a dog walk beside the surf."
   },
   {
     "id": "img-8628-1",
@@ -767,7 +919,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-8628-1.jpg",
     "src": "assets/photos/full/img-8628-1.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Landscapes",
+    "alt": "The setting sun glows orange above the ocean."
   },
   {
     "id": "img-8651",
@@ -777,7 +931,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-8651.jpg",
     "src": "assets/photos/full/img-8651.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Landscapes",
+    "alt": "The sun dips behind a band of cloud over open water."
   },
   {
     "id": "img-8654",
@@ -787,7 +943,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-8654.jpg",
     "src": "assets/photos/full/img-8654.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Landscapes",
+    "alt": "Horizontal stripes of orange light and cloud above the sea."
   },
   {
     "id": "img-8733",
@@ -797,7 +955,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-8733.jpg",
     "src": "assets/photos/full/img-8733.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "A yellow rose in bloom."
   },
   {
     "id": "img-8774",
@@ -807,7 +967,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-8774.jpg",
     "src": "assets/photos/full/img-8774.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "A yellow rose stands against a soft gray background."
   },
   {
     "id": "img-8974",
@@ -817,7 +979,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-8974.jpg",
     "src": "assets/photos/full/img-8974.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "Pink flowers beside tall, narrow blue-green leaves."
   },
   {
     "id": "img-9033",
@@ -827,7 +991,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-9033.jpg",
     "src": "assets/photos/full/img-9033.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "A pale pink rose against deep green foliage."
   },
   {
     "id": "img-9035",
@@ -837,7 +1003,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-9035.jpg",
     "src": "assets/photos/full/img-9035.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "Pink fuchsia flowers hang against a teal background."
   },
   {
     "id": "img-9036",
@@ -847,7 +1015,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-9036.jpg",
     "src": "assets/photos/full/img-9036.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "A dangling cluster of pink and purple fuchsias."
   },
   {
     "id": "img-9510",
@@ -857,7 +1027,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-9510.jpg",
     "src": "assets/photos/full/img-9510.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Portraits",
+    "alt": "Two people sit beneath an overhanging bank."
   },
   {
     "id": "img-1983",
@@ -867,7 +1039,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-1983.jpg",
     "src": "assets/photos/full/img-1983.jpg",
     "width": 1365,
-    "height": 2048
+    "height": 2048,
+    "category": "Portraits",
+    "alt": "A seated person in a lawn chair outdoors."
   },
   {
     "id": "img-0155",
@@ -877,7 +1051,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0155.jpg",
     "src": "assets/photos/full/img-0155.jpg",
     "width": 2305,
-    "height": 1536
+    "height": 1536,
+    "category": "Nature",
+    "alt": "A purple pansy with a dark center and a yellow eye."
   },
   {
     "id": "img-2138",
@@ -887,7 +1063,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-2138.jpg",
     "src": "assets/photos/full/img-2138.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "An orange sunflower with a dark circular center."
   },
   {
     "id": "img-2167",
@@ -897,7 +1075,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-2167.jpg",
     "src": "assets/photos/full/img-2167.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "Two red-orange sunflowers on leafy stems."
   },
   {
     "id": "img-2170-1",
@@ -907,7 +1087,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-2170-1.jpg",
     "src": "assets/photos/full/img-2170-1.jpg",
     "width": 2048,
-    "height": 1626
+    "height": 1626,
+    "category": "Nature",
+    "alt": "Close view of the dark spiral center of an orange sunflower."
   },
   {
     "id": "img-2218",
@@ -917,7 +1099,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-2218.jpg",
     "src": "assets/photos/full/img-2218.jpg",
     "width": 2304,
-    "height": 1536
+    "height": 1536,
+    "category": "Nature",
+    "alt": "Two rusty red sunflowers against a blurred background."
   },
   {
     "id": "img-2220",
@@ -927,7 +1111,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-2220.jpg",
     "src": "assets/photos/full/img-2220.jpg",
     "width": 2580,
-    "height": 1536
+    "height": 1536,
+    "category": "Nature",
+    "alt": "A single red sunflower with bright green leaves."
   },
   {
     "id": "img-2243",
@@ -937,7 +1123,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-2243.jpg",
     "src": "assets/photos/full/img-2243.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Landscapes",
+    "alt": "A distant figure on a paddleboard crosses a sunlit river."
   },
   {
     "id": "img-2281",
@@ -947,7 +1135,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-2281.jpg",
     "src": "assets/photos/full/img-2281.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Landscapes",
+    "alt": "A paddleboarder in silhouette against a silver band of water."
   },
   {
     "id": "img-2285",
@@ -957,7 +1147,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-2285.jpg",
     "src": "assets/photos/full/img-2285.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Landscapes",
+    "alt": "A lone paddleboarder below a hazy wooded hillside."
   },
   {
     "id": "img-2305",
@@ -967,7 +1159,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-2305.jpg",
     "src": "assets/photos/full/img-2305.jpg",
     "width": 2304,
-    "height": 1536
+    "height": 1536,
+    "category": "Life",
+    "alt": "Two paddlers in colorful kayaks on a river."
   },
   {
     "id": "img-2086",
@@ -977,7 +1171,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-2086.jpg",
     "src": "assets/photos/full/img-2086.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Life",
+    "alt": "People hold handmade signs at a street corner."
   },
   {
     "id": "img-2368",
@@ -987,7 +1183,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-2368.jpg",
     "src": "assets/photos/full/img-2368.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Portraits",
+    "alt": "Four people smile together behind a wooden railing."
   },
   {
     "id": "img-2380",
@@ -997,7 +1195,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-2380.jpg",
     "src": "assets/photos/full/img-2380.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Portraits",
+    "alt": "Two people lean their heads together outdoors."
   },
   {
     "id": "img-2384",
@@ -1007,7 +1207,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-2384.jpg",
     "src": "assets/photos/full/img-2384.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Portraits",
+    "alt": "One person kisses another on the temple."
   },
   {
     "id": "img-2462",
@@ -1017,7 +1219,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-2462.jpg",
     "src": "assets/photos/full/img-2462.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Portraits",
+    "alt": "Two people stand side by side in front of sunlit water."
   },
   {
     "id": "img-2522",
@@ -1027,7 +1231,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-2522.jpg",
     "src": "assets/photos/full/img-2522.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Portraits",
+    "alt": "Two people smile with their heads touching."
   },
   {
     "id": "img-2526",
@@ -1037,7 +1243,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-2526.jpg",
     "src": "assets/photos/full/img-2526.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Portraits",
+    "alt": "Two people pose cheek to cheek among greenery."
   },
   {
     "id": "img-6572",
@@ -1047,7 +1255,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-6572.jpg",
     "src": "assets/photos/full/img-6572.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Landscapes",
+    "alt": "A dock extends into a misty lake below wooded hills."
   },
   {
     "id": "img-6611",
@@ -1057,7 +1267,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-6611.jpg",
     "src": "assets/photos/full/img-6611.jpg",
     "width": 2731,
-    "height": 1536
+    "height": 1536,
+    "category": "Landscapes",
+    "alt": "A small boat crosses a foggy lake."
   },
   {
     "id": "img-6612",
@@ -1067,7 +1279,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-6612.jpg",
     "src": "assets/photos/full/img-6612.jpg",
     "width": 2731,
-    "height": 1536
+    "height": 1536,
+    "category": "Landscapes",
+    "alt": "A boat and its occupants are silhouetted against misty water."
   },
   {
     "id": "img-6739-1",
@@ -1077,7 +1291,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-6739-1.jpg",
     "src": "assets/photos/full/img-6739-1.jpg",
     "width": 2374,
-    "height": 1536
+    "height": 1536,
+    "category": "Nature",
+    "alt": "An elk stands in tangled undergrowth at the forest edge."
   },
   {
     "id": "img-6745",
@@ -1087,7 +1303,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-6745.jpg",
     "src": "assets/photos/full/img-6745.jpg",
     "width": 1594,
-    "height": 1667
+    "height": 1667,
+    "category": "Nature",
+    "alt": "An elk turns its head beside a wooded slope."
   },
   {
     "id": "img-0301-1",
@@ -1097,7 +1315,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0301-1.jpg",
     "src": "assets/photos/full/img-0301-1.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Landscapes",
+    "alt": "A white dog sniffs the grass beside a green field and wooded hills."
   },
   {
     "id": "img-0560",
@@ -1107,7 +1327,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0560.jpg",
     "src": "assets/photos/full/img-0560.jpg",
     "width": 2454,
-    "height": 1536
+    "height": 1536,
+    "category": "Life",
+    "alt": "Two children and a pale dog share a car’s back seat."
   },
   {
     "id": "img-7194",
@@ -1117,7 +1339,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-7194.jpg",
     "src": "assets/photos/full/img-7194.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Life",
+    "alt": "An adult and a child crouch beside a glowing stone fireplace."
   },
   {
     "id": "img-7235",
@@ -1127,7 +1351,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-7235.jpg",
     "src": "assets/photos/full/img-7235.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "A pink rose on a leafy stem."
   },
   {
     "id": "img-7245",
@@ -1137,7 +1363,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-7245.jpg",
     "src": "assets/photos/full/img-7245.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "A deep pink rose lit against a dark background."
   },
   {
     "id": "img-7249",
@@ -1147,7 +1375,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-7249.jpg",
     "src": "assets/photos/full/img-7249.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "A pink rose blooms beside a smaller bud."
   },
   {
     "id": "img-7258",
@@ -1157,7 +1387,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-7258.jpg",
     "src": "assets/photos/full/img-7258.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "Two coral roses hang from a branch."
   },
   {
     "id": "img-7259",
@@ -1167,7 +1399,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-7259.jpg",
     "src": "assets/photos/full/img-7259.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "A single orange rose at the end of a leafy stem."
   },
   {
     "id": "img-7284",
@@ -1177,7 +1411,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-7284.jpg",
     "src": "assets/photos/full/img-7284.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "A tiny insect clings to a slender diagonal stem."
   },
   {
     "id": "img-7299",
@@ -1187,7 +1423,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-7299.jpg",
     "src": "assets/photos/full/img-7299.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "A small purple flower on a slender stalk."
   },
   {
     "id": "img-7361",
@@ -1197,7 +1435,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-7361.jpg",
     "src": "assets/photos/full/img-7361.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "Two red-orange roses stand against a dark background."
   },
   {
     "id": "img-0624",
@@ -1207,7 +1447,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0624.jpg",
     "src": "assets/photos/full/img-0624.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "An orange lily opens above a cluster of blue flowers."
   },
   {
     "id": "img-2944-1",
@@ -1217,7 +1459,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-2944-1.jpg",
     "src": "assets/photos/full/img-2944-1.jpg",
     "width": 1537,
-    "height": 2049
+    "height": 2049,
+    "category": "Life",
+    "alt": "Visitors gather beneath Michelangelo’s David."
   },
   {
     "id": "img-0693",
@@ -1227,7 +1471,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0693.jpg",
     "src": "assets/photos/full/img-0693.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Landscapes",
+    "alt": "Rows of grapevines lead toward wooded hills."
   },
   {
     "id": "img-3060",
@@ -1237,7 +1483,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-3060.jpg",
     "src": "assets/photos/full/img-3060.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Landscapes",
+    "alt": "Late sunlight falls across rolling green hills."
   },
   {
     "id": "img-0728",
@@ -1247,7 +1495,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0728.jpg",
     "src": "assets/photos/full/img-0728.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Life",
+    "alt": "A person raises a phone toward a green valley."
   },
   {
     "id": "img-3204",
@@ -1257,7 +1507,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-3204.jpg",
     "src": "assets/photos/full/img-3204.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Life",
+    "alt": "Visitors look up at a framed painting in a gallery."
   },
   {
     "id": "img-0936",
@@ -1267,7 +1519,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0936.jpg",
     "src": "assets/photos/full/img-0936.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "Two pale purple flowers among green leaves."
   },
   {
     "id": "img-0948",
@@ -1277,7 +1531,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0948.jpg",
     "src": "assets/photos/full/img-0948.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "One green leaf stands out among layers of dry leaves."
   },
   {
     "id": "img-0961",
@@ -1287,7 +1543,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0961.jpg",
     "src": "assets/photos/full/img-0961.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "Tubular pink blossoms cluster on leafy stems."
   },
   {
     "id": "img-0967",
@@ -1297,7 +1555,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-0967.jpg",
     "src": "assets/photos/full/img-0967.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "Red and green veins run down a leaf in close-up."
   },
   {
     "id": "fullsizerender",
@@ -1307,7 +1567,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/fullsizerender.jpg",
     "src": "assets/photos/full/fullsizerender.jpg",
     "width": 1536,
-    "height": 2049
+    "height": 2049,
+    "category": "Life",
+    "alt": "Two people walk down a narrow street lined with buildings."
   },
   {
     "id": "img-3461",
@@ -1317,7 +1579,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-3461.jpg",
     "src": "assets/photos/full/img-3461.jpg",
     "width": 1537,
-    "height": 2049
+    "height": 2049,
+    "category": "Portraits",
+    "alt": "Two people hold hands in a narrow stone-paved street."
   },
   {
     "id": "img-1033",
@@ -1327,7 +1591,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-1033.jpg",
     "src": "assets/photos/full/img-1033.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Life",
+    "alt": "A monumental stone fountain illuminated at night."
   },
   {
     "id": "img-1038",
@@ -1337,7 +1603,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-1038.jpg",
     "src": "assets/photos/full/img-1038.jpg",
     "width": 1537,
-    "height": 2049
+    "height": 2049,
+    "category": "Portraits",
+    "alt": "Two people raise their arms in front of a floodlit building."
   },
   {
     "id": "img-1067",
@@ -1347,7 +1615,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-1067.jpg",
     "src": "assets/photos/full/img-1067.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Life",
+    "alt": "A fountain and surrounding buildings glow in a nighttime square."
   },
   {
     "id": "img-1106",
@@ -1357,7 +1627,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-1106.jpg",
     "src": "assets/photos/full/img-1106.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Life",
+    "alt": "Sunlight and shadow stretch across the interior of an ancient amphitheater."
   },
   {
     "id": "img-1130",
@@ -1367,7 +1639,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-1130.jpg",
     "src": "assets/photos/full/img-1130.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Life",
+    "alt": "Stone corridors and arches inside an ancient amphitheater."
   },
   {
     "id": "img-1183",
@@ -1377,7 +1651,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-1183.jpg",
     "src": "assets/photos/full/img-1183.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Life",
+    "alt": "A group of marble figures in a sculptural display."
   },
   {
     "id": "img-3689",
@@ -1387,7 +1663,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-3689.jpg",
     "src": "assets/photos/full/img-3689.jpg",
     "width": 1537,
-    "height": 2049
+    "height": 2049,
+    "category": "Life",
+    "alt": "A spiral staircase seen from above."
   },
   {
     "id": "img-1352",
@@ -1397,7 +1675,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-1352.jpg",
     "src": "assets/photos/full/img-1352.jpg",
     "width": 1536,
-    "height": 2304
+    "height": 2304,
+    "category": "Nature",
+    "alt": "An orange dahlia with layered petals."
   },
   {
     "id": "img-1373",
@@ -1407,7 +1687,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-1373.jpg",
     "src": "assets/photos/full/img-1373.jpg",
     "width": 2583,
-    "height": 1536
+    "height": 1536,
+    "category": "Life",
+    "alt": "A child plays in a container filled with fallen leaves."
   },
   {
     "id": "img-7593",
@@ -1417,7 +1699,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-7593.jpg",
     "src": "assets/photos/full/img-7593.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "A spotted purple orchid blooms on a curved stem."
   },
   {
     "id": "img-7595",
@@ -1427,7 +1711,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-7595.jpg",
     "src": "assets/photos/full/img-7595.jpg",
     "width": 2304,
-    "height": 1536
+    "height": 1536,
+    "category": "Nature",
+    "alt": "Close view of a pink dahlia in bloom."
   },
   {
     "id": "img-7639",
@@ -1437,7 +1723,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-7639.jpg",
     "src": "assets/photos/full/img-7639.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Landscapes",
+    "alt": "Pink roses overlook a field and wooded hills."
   },
   {
     "id": "img-7653",
@@ -1447,7 +1735,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-7653.jpg",
     "src": "assets/photos/full/img-7653.jpg",
     "width": 2304,
-    "height": 1536
+    "height": 1536,
+    "category": "Nature",
+    "alt": "Pale rose petals spiral inward around a pink center."
   },
   {
     "id": "img-7711",
@@ -1457,7 +1747,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-7711.jpg",
     "src": "assets/photos/full/img-7711.jpg",
     "width": 2304,
-    "height": 1536
+    "height": 1536,
+    "category": "Nature",
+    "alt": "Orange and yellow dahlia petals in close-up."
   },
   {
     "id": "img-1409-1",
@@ -1467,7 +1759,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-1409-1.jpg",
     "src": "assets/photos/full/img-1409-1.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "A pale dog wearing a harness sniffs a grassy bank."
   },
   {
     "id": "img-7766",
@@ -1477,7 +1771,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-7766.jpg",
     "src": "assets/photos/full/img-7766.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Life",
+    "alt": "A lone red folding chair stands beside a gravel path."
   },
   {
     "id": "img-7844",
@@ -1487,7 +1783,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-7844.jpg",
     "src": "assets/photos/full/img-7844.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Life",
+    "alt": "A potted plant stands beside a white deck railing."
   },
   {
     "id": "img-1441",
@@ -1497,7 +1795,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-1441.jpg",
     "src": "assets/photos/full/img-1441.jpg",
     "width": 2305,
-    "height": 1536
+    "height": 1536,
+    "category": "Landscapes",
+    "alt": "A pale dog explores a pasture beside a white fence."
   },
   {
     "id": "img-1445-1",
@@ -1507,7 +1807,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-1445-1.jpg",
     "src": "assets/photos/full/img-1445-1.jpg",
     "width": 1676,
-    "height": 885
+    "height": 885,
+    "category": "Nature",
+    "alt": "Long lines of birds cross a gray sky."
   },
   {
     "id": "img-1450",
@@ -1517,7 +1819,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-1450.jpg",
     "src": "assets/photos/full/img-1450.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "Flocks of birds fly in formation beneath scattered clouds."
   },
   {
     "id": "img-8244",
@@ -1527,7 +1831,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-8244.jpg",
     "src": "assets/photos/full/img-8244.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Nature",
+    "alt": "Orange fruit hangs among the leaves of a tree."
   },
   {
     "id": "img-8701",
@@ -1537,7 +1843,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-8701.jpg",
     "src": "assets/photos/full/img-8701.jpg",
     "width": 2304,
-    "height": 1536
+    "height": 1536,
+    "category": "Portraits",
+    "alt": "Two adults hold a child’s hands on a tree-lined road."
   },
   {
     "id": "img-1628",
@@ -1547,7 +1855,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-1628.jpg",
     "src": "assets/photos/full/img-1628.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Life",
+    "alt": "A baby reaches toward an ornament on a Christmas tree."
   },
   {
     "id": "img-1675",
@@ -1557,7 +1867,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-1675.jpg",
     "src": "assets/photos/full/img-1675.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Life",
+    "alt": "A dog rests on a wooden floor in the warm glow of a stove."
   },
   {
     "id": "img-9012",
@@ -1567,7 +1879,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-9012.jpg",
     "src": "assets/photos/full/img-9012.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Landscapes",
+    "alt": "A bird glides above dark wooded hills."
   },
   {
     "id": "img-9043",
@@ -1577,7 +1891,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-9043.jpg",
     "src": "assets/photos/full/img-9043.jpg",
     "width": 1190,
-    "height": 793
+    "height": 793,
+    "category": "Nature",
+    "alt": "A heron spreads its wings low over a grassy field."
   },
   {
     "id": "img-1830",
@@ -1587,7 +1903,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-1830.jpg",
     "src": "assets/photos/full/img-1830.jpg",
     "width": 2049,
-    "height": 1537
+    "height": 1537,
+    "category": "Landscapes",
+    "alt": "Light catches the bank of a stream among bare trees."
   },
   {
     "id": "img-2708-1",
@@ -1597,7 +1915,9 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-2708-1.jpg",
     "src": "assets/photos/full/img-2708-1.jpg",
     "width": 2155,
-    "height": 1293
+    "height": 1293,
+    "category": "Nature",
+    "alt": "A goose flies past a wooded hillside."
   },
   {
     "id": "img-2714",
@@ -1607,6 +1927,8 @@ window.DUANE_PHOTOS = [
     "thumb": "assets/photos/thumbs/img-2714.jpg",
     "src": "assets/photos/full/img-2714.jpg",
     "width": 2305,
-    "height": 1537
+    "height": 1537,
+    "category": "Landscapes",
+    "alt": "A pale field meets a band of bare trees at the edge of the forest."
   }
 ];
