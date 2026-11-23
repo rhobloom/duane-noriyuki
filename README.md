@@ -24,6 +24,6 @@ No third-party article text or copyrighted photographs are reproduced here.
 
 ## Edit the homepage slideshow
 
-Open a photo in the gallery to see its ID below the enlarged image. In [the slideshow list](https://github.com/rhobloom/duane-noriyuki/edit/main/assets/home-slides.txt), put one photo ID per line, in the order you want it shown. Commit the edit with a GitHub account that can write to this repository. GitHub Pages publishes the change. An empty list hides the slideshow.
+The Canva sequence uses IDs from slide-001 through slide-160. Each ID matches a still in assets/duane-slideshow. Reorder or remove those IDs to curate the sequence. To include a photograph from the gallery, open it to see its ID below the enlarged image. In [the slideshow list](https://github.com/rhobloom/duane-noriyuki/edit/main/assets/home-slides.txt), put one photo ID per line, in the order you want it shown. Commit the edit with a GitHub account that can write to this repository. GitHub Pages publishes the change. An empty list hides the slideshow.
 
 The four gallery categories and image descriptions are in `assets/photography-data.js`. Personal projects and links to new essays belong in `personal-work.html`.

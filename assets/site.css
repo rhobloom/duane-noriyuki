@@ -205,3 +205,6 @@ nav { flex-wrap:wrap; }
   #slide-image { height:clamp(15rem,65vw,24rem); }
   .home-intro .hero { padding:2.5rem 7vw; }
 }
+
+#slide-controls { flex-wrap:wrap; gap:.45rem .7rem; }
+#music-status:not(:empty) { display:block; padding:.5rem 1rem; color:var(--paper); text-align:center; }

@@ -21,13 +21,16 @@
   <main>
     <section class="home-intro">
       <figure class="home-slides" aria-label="Selected photographs">
-        <img id="slide-image" src="assets/photos/full/img-2170-1.jpg" alt="Sunflower">
+        <img id="slide-image" src="assets/duane-slideshow/slide-001.webp" alt="Faces &amp; Places of the McKenzie River Valley">
         <figcaption id="slide-controls" hidden>
           <button type="button" id="slide-prev" aria-label="Previous slide">←</button>
           <span id="slide-position"></span>
           <button type="button" id="slide-next" aria-label="Next slide">→</button>
           <button type="button" id="slide-toggle">Pause</button>
+          <button type="button" id="music-toggle" aria-pressed="false">Play music</button>
         </figcaption>
+        <audio id="slide-music" src="assets/duane-slideshow/music.m4a" preload="none" loop></audio>
+        <span id="music-status" role="status"></span>
       </figure>
       <div class="hero">
       <p class="eyebrow">writer · photographer</p>
